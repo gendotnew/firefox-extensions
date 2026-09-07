@@ -17,6 +17,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/). If you want a UI friendly password manager, use it. Otherwise check Bitwarden.
 - [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/). Note: For more security conscious viewpoint use Bitwarden.
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - Automatically remove tracking elements from URLs to help protect your privacy when browsing through the Internet. ClearURL's source code is available [here](https://gitlab.com/KevinRoebert/ClearUrls).
+- [CardDeals](https://addons.mozilla.org/en-US/firefox/addon/carddeals/) - Automatically finds verified discount gift cards at checkout across 1,000+ top stores.
 - [Dark Reader](https://github.com/darkreader/darkreader) - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
 - [Decentraleyes](https://github.com/Synzvato/decentraleyes) - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction)).
 - [Disconnect](https://disconnect.me/) - Adds an extra layer of security on top of [uBlock Origin](https://adguard.com/en/adblock-adguard-safari.html).
