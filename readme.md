@@ -25,6 +25,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Stylus](https://add0n.com/stylus.html) - Easily install themes and skins for many popular sites.
 - [Tab search](https://github.com/reblws/tab-search) - Keyboard-accessible tab management.
 - [Tridactyl](https://github.com/cmcaine/tridactyl) - Vim like keyboard navigation like Vimperator/Pentadactyl.
+- [truediscount](https://addons.mozilla.org/en-US/firefox/addon/truediscount/) - Checks whether an EU shop discount is real against the Omnibus 30-day lowest price; local-only and open source.
 - [Vim Vixen](https://github.com/ueokande/vim-vixen) - Accelerate your browsing with Vim power.
 - [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) - Probably the best adblocker for Firefox there is.
 
