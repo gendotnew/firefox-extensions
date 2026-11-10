@@ -22,6 +22,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Disconnect](https://disconnect.me/) - Adds an extra layer of security on top of [uBlock Origin](https://adguard.com/en/adblock-adguard-safari.html).
 - [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - The best security you can get in a web browser! Used for protection against XSS and other web security exploits. Source code is available [here](https://github.com/hackademix/noscript/).
 - [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Includes many features that enhances your Reddit browsing experience.
+- [ShrinkWatch EU](https://addons.mozilla.org/en-US/firefox/addon/shrinkwatch-eu/) - Shows the price per kg or litre on EU grocery shops and warns when a pack shrinks for the same price.
 - [Stylus](https://add0n.com/stylus.html) - Easily install themes and skins for many popular sites.
 - [Tab search](https://github.com/reblws/tab-search) - Keyboard-accessible tab management.
 - [Tridactyl](https://github.com/cmcaine/tridactyl) - Vim like keyboard navigation like Vimperator/Pentadactyl.
